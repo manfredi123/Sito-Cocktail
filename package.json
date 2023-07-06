@@ -1,0 +1,9 @@
+{
+  "name": "sitoCocktail",
+  "version": "1.0.0",
+  "description": "sito cocktail",
+  "main": "index.html",
+  "repository": "https://github.com/manfredi123/Sito-Cocktail.git",
+  "author": "manfredi",
+  "license": "MIT"
+}
