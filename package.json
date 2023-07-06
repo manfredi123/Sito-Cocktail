@@ -5,8 +5,5 @@
   "main": "index.html",
   "repository": "https://github.com/manfredi123/Sito-Cocktail.git",
   "author": "manfredi",
-  "license": "MIT",
-  "scripts": {
-    "build": "yarn run build"
-  }
+  "license": "MIT"
 }
